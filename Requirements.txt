@@ -1,0 +1,9 @@
+python
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+cv2
+imghdr
+e .
